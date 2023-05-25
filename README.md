@@ -7,6 +7,8 @@ The notebooks in the current repository can be accessed via any standard softwar
 
 ### Chapter 1: An improved explicit upper bound of Siegel zeros for imaginary quadratic fields
 
+### Chapter 2: An explicit upper bound of Siegel zeros for real quadratic fields
+
 
 
 
