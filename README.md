@@ -5,7 +5,7 @@ In the thesis, the author provided an explicit upper bound on Siegel zeros of qu
 
 The notebooks in the current repository can be accessed via any standard software such as Jupiter Notebooks using the SageMath kernel. 
 
-# Chapter 1: An improved explicit upper bound of Siegel zeros for imaginary quadratic fields
+### Chapter 1: An improved explicit upper bound of Siegel zeros for imaginary quadratic fields
 
 
 
