@@ -10,10 +10,12 @@ The notebook used in this chapter is called $\texttt{Negative case - numerical c
 
 ### Chapter 2: An explicit upper bound of Siegel zeros for real quadratic fields
 In the second chapter, we wrote two notebooks according to the case that is treated:
+$
 \begin{enumerate}
   \item $\texttt{Positive case - numerical computations}$ for the case of real quadratic fields,
   \item $\texttt{Positive case - fund.units of small size}$ for the case of real quadratic fields with small fundamental units.
 \end{enumerate}
+$
 
 
 
