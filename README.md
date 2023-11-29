@@ -1,5 +1,5 @@
 ## Explicit bounds on Siegel-zeros and its applications
-This repository contains the SageMath notebooks used in the thesis entitled \textttExplicit bounds on Siegel zeros and its applications} written by F.B. Razakarinoro.
+This repository contains the SageMath notebooks used in the thesis entitled \texttt{Explicit bounds on Siegel zeros and its applications} written by F.B. Razakarinoro.
 
 In the thesis, we provided explicit upper bounds on Siegel zeros of quadratic number fields. That is, the case of imaginary and real quadratic number fields are treated. The method used in this manuscript is mainly based on the paper of Goldfeld and Schinzel entitled $\textit{On Siegel's zero}$ published in 1975. The detailed numerical computations in the first two chapters are included here. 
 
