@@ -5,6 +5,6 @@ In the thesis, we provided explicit upper bounds on Siegel zeros of quadratic nu
 
 The notebooks in the current repository can be accessed via any standard software such as Jupiter Notebooks using the SageMath kernel. In our case, we used the version 9.3 of SageMath. 
 
-The notebook used in Chapter 1 is called $\texttt{Negative case - numerical computations}$.
+The notebook used in Chapter 3 is called $\texttt{Negative case - numerical computations}$.
 
-The notebook used in Chapter 1 is called $\texttt{Positive case - numerical computations}$.
+The notebook used in Chapter 4 is called $\texttt{Positive case - numerical computations}$.
